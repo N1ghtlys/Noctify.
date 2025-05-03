@@ -4,15 +4,13 @@
   
   ![Noctify Logo](https://img.shields.io/badge/🎵-Noctify-00BCD4?style=for-the-badge)
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![N1ghtm License](https://img.shields.io/badge/License-N1ghtm-blue.svg)](https://github.com/dn1ghtm/noctify)
   [![React](https://img.shields.io/badge/React-17.0.2-61DAFB?logo=react)](https://reactjs.org/)
   [![Spotify](https://img.shields.io/badge/Spotify-API-1DB954?logo=spotify&logoColor=white)](https://developer.spotify.com/documentation/web-api/)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
   <br>
   <strong>A simple, elegant open-source Spotify controller for your desktop.</strong>
-  <br>
-  <img src="https://via.placeholder.com/800x400?text=Noctify+Screenshot" alt="Noctify Screenshot" width="600px" />
 </div>
 
 <br>
@@ -59,7 +57,7 @@ Noctify is a minimalist Spotify controller designed to provide a beautiful, dist
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/noctify.git
+   git clone https://github.com/dn1ghtm/noctify.git
    cd noctify
    ```
 
@@ -127,13 +125,6 @@ This project is configured to use environment variables for all sensitive inform
 3. **View track info** - See beautiful album art and track details
 4. **Display lyrics** - Get synchronized lyrics for your current track
 
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x250?text=Noctify+Player" alt="Noctify Player" width="400px" />
-  <img src="https://via.placeholder.com/400x250?text=Noctify+Lyrics" alt="Noctify Lyrics" width="400px" />
-</div>
-
 ## 🧑‍💻 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve Noctify.
@@ -148,7 +139,18 @@ Please make sure to update tests as appropriate and follow the code style.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright © N1ghtm 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following condition:
+
+**Attribution Requirement:**
+Any public or distributed use of the Software, or any substantial portion thereof, must include visible credit to the original author, N1ghtm. Attribution must be clearly displayed in a prominent and reasonable location such as:
+- Within any user interface (e.g. an "About" section, splash screen, footer, or credits page)
+- Or within documentation or accompanying materials (e.g. README file or project website)
+
+This license does not impose restrictions on usage, modification, or distribution beyond the requirement for attribution.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 🙏 Acknowledgments
 
@@ -159,5 +161,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/dn1ghtm">N1ghtm</a>
 </div> 
