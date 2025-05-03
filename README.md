@@ -36,7 +36,7 @@ Noctify is a minimalist Spotify controller designed to provide a beautiful, dist
 
 ## 🚀 Live Demo
 
-*Replace with your deployment URL when available*
+*https://noctify.n1ghtly.hu*
 
 ## 🛠️ Tech Stack
 
