@@ -1,0 +1,26 @@
+{
+  "short_name": "Noctify",
+  "name": "Noctify - Your desk media player",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "noc.gif",
+      "type": "image/gif",
+      "sizes": "192x192"
+    },
+    {
+      "src": "noc.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00BCD4",
+  "background_color": "#191414"
+}
